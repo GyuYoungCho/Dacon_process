@@ -8,3 +8,4 @@ dacon 데이터를 분석
 - [온도 추정](https://github.com/GyuYoungCho/Dacon_process/tree/master/Temperature_prediction)
 - [강수량 추정](https://github.com/GyuYoungCho/Dacon_process/tree/master/Rainfall_prediction)
 - [컴퓨터 비전 학습](https://github.com/GyuYoungCho/Dacon_process/tree/master/EMnist)
+- [심리 성향 예측](https://github.com/GyuYoungCho/Dacon_process/tree/master/Psychometrics_predict)
